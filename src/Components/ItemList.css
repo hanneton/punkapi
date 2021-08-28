@@ -1,0 +1,21 @@
+.item-list {
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.item-list li {
+    padding: 4px;
+    border: 2px solid #ffd3da;
+    border-radius: 20px;
+    margin: 5px auto;
+}
+
+
+.item-list li span {
+    font-weight: bold;
+
+}
